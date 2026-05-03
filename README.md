@@ -1,4 +1,4 @@
-# Credit-Card-Analysis-POSTGRE-SQL-POWER-BI
+# Credit-Card-Analysis-PostgreSQL-PowerBI
 
 
 ## Project Overview
